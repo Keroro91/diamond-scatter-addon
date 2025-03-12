@@ -83,21 +83,21 @@ Développer un addon pour Blender permettant d'instancier des diamants de diffé
 ## 4. Roadmap
 
 ### Phase 1 : Définition du projet et setup
-✅ Création du dépôt GitHub `diamond-scatter-addon`
-✅ Rédaction du cahier des charges
-✅ Initialisation du projet (dossier Blender Addon, structure des fichiers)
+- ✅ Création du dépôt GitHub `diamond-scatter-addon`
+- ✅ Rédaction du cahier des charges
+- ✅ Initialisation du projet (dossier Blender Addon, structure des fichiers)
 
 ### Phase 2 : Développement du core
-🔲 Implémentation de la sélection de la surface et validation (Face Map check)
-🔲 Gestion des paramètres utilisateurs (diamants, offset, patterns, grains)
-🔲 Algorithmes de distribution (Pavé, French Pavé, Snow Setting)
-🔲 Génération des grains selon les patterns
-🔲 Alignement et gestion des rotations
+- 🔲 Implémentation de la sélection de la surface et validation (Face Map check)
+- 🔲 Gestion des paramètres utilisateurs (diamants, offset, patterns, grains)
+- 🔲 Algorithmes de distribution (Pavé, French Pavé, Snow Setting)
+- 🔲 Génération des grains selon les patterns
+- 🔲 Alignement et gestion des rotations
 
 ### Phase 3 : Aperçu interactif et UI
-🔲 Développement du système de preview interactif
-🔲 Intégration de la barre de progression
-🔲 Création et optimisation de l’interface utilisateur
+- 🔲 Développement du système de preview interactif
+- 🔲 Intégration de la barre de progression
+- 🔲 Création et optimisation de l’interface utilisateur
 
 ### Phase 4 : Finalisation et release
 🔲 Ajout des options de fusion des objets
